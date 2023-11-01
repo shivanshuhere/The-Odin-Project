@@ -1,0 +1,1 @@
+hello this is a text file that i just modified for the git status to show this file on status cmd
